@@ -27,6 +27,6 @@ print(a,b,c) --> 0 1 nil
 a, b = a+1, b+1, b+2 -- value of b+2 is ignored 
 print(a,b) --> 1 2 
 a, b, c = 0 
-print(a,b,c) --> 0 nil nil
+print(a,b,c) --> 0 nil nil //常见的错误情况，注意：如果要对多个变量赋值必须依次对每个变量赋值。
 
 ```
