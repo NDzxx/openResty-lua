@@ -26,7 +26,8 @@ http://jinnianshilongnian.iteye.com/blog/2190344
 * Nginx 第三方模块试用记
 http://chenxiaoyu.org/2011/10/30/nginx-modules.html
 
-http://www.tuicool.com/articles/vM7NNva
+http://www.tuicool.com/articles/vM7NNva  
+
 最佳实践：
 http://wiki.jikexueyuan.com/project/openresty-best-practice/
 
