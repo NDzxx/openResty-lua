@@ -7,3 +7,5 @@ for k, v in pairs(t)
 end
 
 ```
+
+##无状态的迭代器
