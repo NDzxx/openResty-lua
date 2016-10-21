@@ -42,11 +42,12 @@ return module
 Lua提供了一个名为require的函数用来加载模块。要加载一个模块，只需要简单地调用就可以了。例如： 
 
 ```lua
-require("module")
+local m = require("module")
 
-print(module.constant)
+print(m.constant)
 
-module.func3()
+m.func3()
+
 
 
 ```
