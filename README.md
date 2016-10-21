@@ -41,6 +41,10 @@ http://wiki.jikexueyuan.com/project/openresty-best-practice/
 
 对于已经使用了 OpenResty 的开发者，我们把这两三年遇到的坑，都记录在 GitHub 的《OpenResty最佳实践》上面（https://github.com/moonbingbing/openresty-best-practices），大家可以当做 cookbook 来使用。
 
+ide:
+http://blog.csdn.net/freewebsys/article/details/46347657
+
+
 
 
 
