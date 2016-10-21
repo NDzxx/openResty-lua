@@ -23,4 +23,8 @@
 * 跟我学Nginx+Lua开发目录贴
 http://jinnianshilongnian.iteye.com/blog/2190344
 
+* Nginx 第三方模块试用记
+http://chenxiaoyu.org/2011/10/30/nginx-modules.html
+
+
 
