@@ -31,6 +31,15 @@ http://www.tuicool.com/articles/vM7NNva
 最佳实践：
 http://wiki.jikexueyuan.com/project/openresty-best-practice/
 
+##note
+
+我们团队正在做这方面的努力，尽量在现有的基础上，降低学习的门槛。 对于新手，可以看 StuQ 上面 OpenResty 的系列视频教程 (http://www.stuq.org/course/detail/1015)，我们计划有 4 季，分别是入门、进阶、实战和源码分析。现在第一季已经上线，第二季正在后期制作。看完前两季，基本上就可以在项目里面用了。
+
+
+
+对于已经使用了 OpenResty 的开发者，我们把这两三年遇到的坑，都记录在 GitHub 的《OpenResty最佳实践》上面（https://github.com/moonbingbing/openresty-best-practices），大家可以当做 cookbook 来使用。
+
+
 
 
 
