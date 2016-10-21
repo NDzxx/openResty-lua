@@ -16,5 +16,17 @@ end
 以下实例我们使用了一个简单的函数来实现迭代器，实现 数字 n 的平方：
 
 ```lua
+function square(iteratorMaxCount,currentNumber)
+   if currentNumber<iteratorMaxCount
+   then
+      currentNumber = currentNumber+1
+   return currentNumber, currentNumber*currentNumber
+   end
+end
+
+for i,n in square,3,0
+do
+   print(i,n)
+end
 
 ```
