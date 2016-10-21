@@ -10,4 +10,8 @@
 
   - 4.apache-jmeter-3.0 测试两个服务器的效率
 
+##附录：
+  - redis&mysql http://jinnianshilongnian.iteye.com/blog/2187328/
+  - protobuf http://blog.csdn.net/mergerly/article/details/16350871
+  
 
