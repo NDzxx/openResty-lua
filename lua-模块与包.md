@@ -48,6 +48,4 @@ print(m.constant)
 
 m.func3()
 
-
-
 ```
