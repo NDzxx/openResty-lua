@@ -50,3 +50,11 @@ m.func3()
 
 ```
 ##加载机制
+```lua
+local m = require("module/module")//当前目录下的module文件夹的module模块
+
+print(m.constant)
+
+m.func3()
+
+```
