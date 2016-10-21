@@ -74,5 +74,8 @@ do
 
 end
 
+运行结果:
+Lua
+Tutorial
 
 ```
