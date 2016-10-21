@@ -15,5 +15,6 @@
 
 * redis&mysql [http:\/\/jinnianshilongnian.iteye.com\/blog\/2187328\/](http://jinnianshilongnian.iteye.com/blog/2187328/)
 * protobuf [http:\/\/blog.csdn.net\/mergerly\/article\/details\/16350871](http://blog.csdn.net/mergerly/article/details/16350871)
-* lua在线教程 http://www.runoob.com/lua/lua-tutorial.html
+* lua在线教程 [http:\/\/www.runoob.com\/lua\/lua-tutorial.html](http://www.runoob.com/lua/lua-tutorial.html)
+* scite http:\/\/www.scintilla.org\/ScintillaDownload.html
 
