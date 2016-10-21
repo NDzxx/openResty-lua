@@ -13,4 +13,5 @@
 * [Lua 迭代器](lua-迭代器.md)
 * [表](表.md)
 * [Lua 模块与包](lua-模块与包.md)
+* [Lua 元表\(Metatable\)](lua-元表metatable.md)
 
