@@ -17,4 +17,6 @@
 * protobuf [http:\/\/blog.csdn.net\/mergerly\/article\/details\/16350871](http://blog.csdn.net/mergerly/article/details/16350871)
 * lua在线教程 [http:\/\/www.runoob.com\/lua\/lua-tutorial.html](http://www.runoob.com/lua/lua-tutorial.html)
 * scite http:\/\/www.scintilla.org\/ScintillaDownload.html
-* scite百科 http://baike.baidu.com/link?url=x2UqZYhMkRbzecz6dAD4vdeJ6vhMY2Gl21u3M69Eu85Lm7c3bKq4HWvfN72gwmAOVDmqJ_g4F_HnKfuDgOexgK
+* scite百科 
+  http://baike.baidu.com/link?url=x2UqZYhMkRbzecz6dAD4vdeJ6vhMY2Gl21u3M69Eu85Lm7c3bKq4HWvfN72gwmAOVDmqJ_g4F_HnKfuDgOexgK
+
