@@ -22,4 +22,5 @@
 
 ## openresty
 * [penResty的安装和在nginx中使用lua直接访问mysql达到数据接口的统一](penresty的安装和在nginx中使用lua直接访问mysql达到数据接口的统一.md)
+* [win](win.md)
 
