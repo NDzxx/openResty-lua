@@ -3,3 +3,7 @@
 我的网盘/OpenResty
 2.参考网易云课堂的openResty教程
 
+
+http://wdicc.com/intro-openresty/
+
+
