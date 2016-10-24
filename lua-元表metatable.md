@@ -26,6 +26,7 @@ getmetatable(mytable) -- 这回返回mymetatable
 | -lt| 对应的运算符 '<' |
 | -le| 对应的运算符 '<=' |
 
+##__call 元方法
 
 
 
