@@ -1,4 +1,4 @@
-file = io.open (filename [, mode])
+##file = io.open (filename [, mode])
 
 r    以只读方式打开文件，该文件必须存在。
 
@@ -15,5 +15,26 @@ a+    与a类似，但此文件可读可写
 b    二进制模式，如果文件是二进制文件，可以加上b
 
 *号表示对文件既可以读也可以写
+
+##io.read() 方法
+
+"*n"读取一个数字并返回它。例：file.read("*n")
+
+"*a"从当前位置读取整个文件。例：file.read("*a")
+
+"*l"（默认）读取下一行，在文件尾 (EOF) 处返回 nil。例：file.read("*l")
+
+number返回一个指定字符个数的字符串，或在 EOF 时返回 nil。例：file.read(5)
+#其他的 io 方法有：
+
+* io.tmpfile():返回一个临时文件句柄，该文件以更新模式打开，程序结束时自动删除
+
+* io.type(file): 检测obj是否一个可用的文件句柄
+
+* io.flush(): 向文件写入缓冲中的所有数据
+
+* io.lines(optional file name): 返回一个迭代函数,每次调用将获得文件中的一行内容,当到文件尾时，将返回nil,但不关闭文件
+
+
 
 
