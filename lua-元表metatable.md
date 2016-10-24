@@ -7,6 +7,10 @@
 ##设置元表
 ```lua
 mytable = setmetatable({},{})
+
+//返回对象元素
+getmetatable(mytable) -- 这回返回mymetatable
+
 ```
 
 
