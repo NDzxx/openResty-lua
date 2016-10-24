@@ -4,5 +4,11 @@
 
 因此 Lua 提供了元表(Metatable)，允许我们改变table的行为，每个行为关联了对应的元方法。
 
+##设置元表
+```lua
+mytable = setmetatable({},{})
+```
+
+
 
 
