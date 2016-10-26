@@ -13,4 +13,11 @@ pkill -9 nginx ：强制停止Nginx
 启动nginx:nginx -c /path/to/nginx.conf  
 平滑重启nginx：kill -HUP 主进程号
 
+启动：
+PATH=/usr/local/openresty/nginx/sbin:$PATH 
+export PATH
+nginx -p `pwd`/ -c conf/nginx.conf
+
+
+
 ```
