@@ -44,6 +44,10 @@ http://wiki.jikexueyuan.com/project/openresty-best-practice/
 ide:
 http://blog.csdn.net/freewebsys/article/details/46347657
 
+openResty最佳实践
+https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html
+
+
 
 
 
