@@ -19,5 +19,5 @@ export PATH
 nginx -p `pwd`/ -c conf/nginx.conf
 
 
-
+win下使用nginx改为对应目录的nginx.exe
 ```
