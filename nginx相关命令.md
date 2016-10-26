@@ -24,4 +24,7 @@ win下使用nginx改为对应目录的nginx.exe
 调试:
 http://notebook.kulchenko.com/zerobrane/debugging-openresty-nginx-lua-scripts-with-zerobrane-studio
 
+
+http://www.tuicool.com/articles/u2YzA3z
+
 ```
